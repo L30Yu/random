@@ -20,3 +20,6 @@ unique random numbers algorithm: Fisher–Yates shuffle, it randomly choosing an
 - src/utils/randomNumberUtils.js 
 
 > contains the shuffle function and validating text inputs function.
+
+### Preview:
+![Random](https://user-images.githubusercontent.com/12931325/36569250-42f0ab4e-17ea-11e8-8c63-702b47287e19.png)
