@@ -15,8 +15,8 @@ unique random numbers algorithm: Fisher–Yates shuffle, it randomly choosing an
 ### Important Files:
 - src/component/RandomNumber.js
 
-⋅⋅⋅ render the UI of generated numbers
+> render the UI of generated numbers.
 
 - src/utils/randomNumberUtils.js 
 
-⋅⋅⋅ contains the shuffle function and validating text inputs function
+> contains the shuffle function and validating text inputs function.
